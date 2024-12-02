@@ -13,12 +13,12 @@
 		- #### For API developers
 			- install Postman [3] or ApiDog [4] or Bruno [5]
     - ### Links:
-        - [1] Laragon : https://laragon.org/download/index.html
-        - [1] Laragon Docs : https://laragon.org/docs/
-        - [2] Laragonzo : https://github.com/husnilkhatimi/laragonzo
-        - [3] Postman : https://www.postman.com/downloads/
-        - [4] ApiDog : https://apidog.com
-        - [5] Bruno : https://www.usebruno.com
+        - [1] Laragon : [https://laragon.org/download/index.html](https://laragon.org/download/index.html)
+        - [1] Laragon Docs : [https://laragon.org/docs/](https://laragon.org/docs/)
+        - [2] Laragonzo : [https://github.com/husnilkhatimi/laragonzo](https://github.com/husnilkhatimi/laragonzo)
+        - [3] Postman : [https://www.postman.com/downloads/](https://www.postman.com/downloads/)
+        - [4] ApiDog : [https://apidog.com](https://apidog.com)
+        - [5] Bruno : [https://www.usebruno.com](https://www.usebruno.com)
 	
     <hr>
 
@@ -74,20 +74,20 @@
 				- There should be atleast 4 routes but must be more than 4 in all cases
 				- The controller logic should be well coded and with proper comments before the code
 	- ### Links:
-		- [1] Learn PHP from: https://www.w3schools.com/php/
-		- [2] Installing laravel project using laragon/laragonzo  : https://www.wikihow.com/Install-Laravel-Using-Laragon
-		- [2] Installing laravel through command line : https://laravel.com/docs/10.x
-		- [3] Read the docs about Laravel project structure: https://laravel.com/docs/10.x/structure
-		- [4] Read about basic composer commands and how to install packages in laravel : https://medium.com/hello-laravel/the-most-useful-php-composer-commands-f6554c157447
-		- [4] Laravel debugbar : https://github.com/barryvdh/laravel-debugbar
-		- [5] Routing in laravel : https://laravel.com/docs/10.x/routing
-		- [6] Learn about laravel view: https://laravel.com/docs/10.x/views
-		- [7] Learn blade templates here: https://laravel.com/docs/10.x/blade
-		- [8] Learn how the model and view work together : https://www.cloudways.com/blog/models-views-laravel/
-		- [8] Learn the eloquent : https://laravel.com/docs/10.x/eloquent
-		- [9] Learn the migration and seeders : https://laravel.com/docs/10.x/migrations
-		- [9] Impressive blog about laravel migration and seeders: https://medium.com/grevo-techblog/lavarel-migration-seeding-b093a68990cd
-		- [10] Learn about the overall integration: https://www.cloudways.com/blog/laravel-crud/
+		- [1] Learn PHP from : [https://www.w3schools.com/php/](https://www.w3schools.com/php/)
+		- [2] Installing laravel project using laragon/laragonzo  : [https://www.wikihow.com/Install-Laravel-Using-Laragon](https://www.wikihow.com/Install-Laravel-Using-Laragon)
+		- [2] Installing laravel through command line : [https://laravel.com/docs/10.x](https://laravel.com/docs/10.x)
+		- [3] Read the docs about Laravel project structure : [https://laravel.com/docs/10.x/structure](https://laravel.com/docs/10.x/structure)
+		- [4] Read about basic composer commands and how to install packages in laravel : [https://medium.com/hello-laravel/the-most-useful-php-composer-commands-f6554c157447](https://medium.com/hello-laravel/the-most-useful-php-composer-commands-f6554c157447)
+		- [4] Laravel debugbar : [https://github.com/barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
+		- [5] Routing in laravel : [https://laravel.com/docs/10.x/routing](https://laravel.com/docs/10.x/routing)
+		- [6] Learn about laravel view: [https://laravel.com/docs/10.x/views](https://laravel.com/docs/10.x/views)
+		- [7] Learn blade templates here: [https://laravel.com/docs/10.x/blade](https://laravel.com/docs/10.x/blade)
+		- [8] Learn how the model and view work together : [https://www.cloudways.com/blog/models-views-laravel/](https://www.cloudways.com/blog/models-views-laravel/)
+		- [8] Learn the eloquent : [https://laravel.com/docs/10.x/eloquent](https://laravel.com/docs/10.x/eloquent)
+		- [9] Learn the migration and seeders : [https://laravel.com/docs/10.x/migrations](https://laravel.com/docs/10.x/migrations)
+		- [9] Impressive blog about laravel migration and seeders: [https://medium.com/grevo-techblog/lavarel-migration-seeding-b093a68990cd](https://medium.com/grevo-techblog/lavarel-migration-seeding-b093a68990cd)
+		- [10] Learn about the overall integration: [https://www.cloudways.com/blog/laravel-crud/](https://www.cloudways.com/blog/laravel-crud/)
 	
     <hr>
 
@@ -97,7 +97,7 @@
 		- The commits message should be descriptive
 	
 	- Create a repository under the NCCSSoftware organization, under the Team InternWeb
-		- Link : https://github.com/orgs/NCCSSoftware/teams/internweb
+		- Link : [https://github.com/orgs/NCCSSoftware/teams/internweb](https://github.com/orgs/NCCSSoftware/teams/internweb)
 	<hr>
 	
 	- Deadline: December 15, 2024, 00:00 (i.e. before Sunday 13th, Nepal Time +5:45)
