@@ -1,5 +1,5 @@
 # Learning Laravel Roadmap Week 1-2
-	- This week we will go on through initial setup and laravel basics
+- This week we will go on through initial setup and laravel basics
 - ## Week 1: Foundation and Setup
 	- ### Development Environment Setup
 		- #### For both API and Web developers
