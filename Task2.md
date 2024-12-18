@@ -36,38 +36,39 @@ Total duration: 2 weeks (60 hours total)
 <details>
 <summary>Full Stack Track</summary>
 
-#### Day 1-2: Frontend Setup (10 hours)
-- Setup Tailwind and Soft UI [Read Guide][soft-ui]
-    - Install Tailwind CSS
-    - Configure Soft UI Dashboard
-    - Setup basic layout components
-- Configure Livewire [Read Guide][livewire]
-    - Create base components
-    - Setup event listeners
-    - Add real-time validation
+    #### Day 1-2: Frontend Setup (10 hours)
+    - Setup Tailwind and Soft UI [Read Guide][soft-ui]
+        - Install Tailwind CSS
+        - Configure Soft UI Dashboard
+        - Setup basic layout components
+    - Configure Livewire [Read Guide][livewire]
+        - Create base components
+        - Setup event listeners
+        - Add real-time validation
 
-#### Day 3-4: UI Components (10 hours)
-- Create dashboard components
-    - Todo list component with filtering
-    - Todo creation modal
-    - Category management
-    - User profile page
-- Implement Soft UI elements
-    - Navigation sidebar
-    - Stats cards
-    - Data tables
-    - Action buttons
+    #### Day 3-4: UI Components (10 hours)
+    - Create dashboard components
+        - Todo list component with filtering
+        - Todo creation modal
+        - Category management
+        - User profile page
+    - Implement Soft UI elements
+        - Navigation sidebar
+        - Stats cards
+        - Data tables
+        - Action buttons
 
-#### Day 5-6: Advanced Features (10 hours)
-- Add interactive features
-    - Real-time updates
-    - Search functionality
-    - Filtering system
-    - Activity logging
+    #### Day 5-6: Advanced Features (10 hours)
+    - Add interactive features
+        - Real-time updates
+        - Search functionality
+        - Filtering system
+        - Activity logging
 </details>
 
 <details>
 <summary>API Track</summary>
+
 
 #### Day 1-2: API Structure (10 hours)
 - Setup API architecture [Read Guide][api-structure]
@@ -93,6 +94,8 @@ Total duration: 2 weeks (60 hours total)
     - Add request examples
     - Include environment variables
     - Export and share collection
+
+
 </details>
 
 ### Required Features for Both Tracks
