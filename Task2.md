@@ -33,42 +33,42 @@ Total duration: 2 weeks (60 hours total)
 
 ## Week 4: UI Implementation and API Development (30 hours)
 
-<details>
-<summary>Full Stack Track</summary>
+Two tracks are available for this week: Full Stack and API Development. Choose one based on your interest.
+- Full Stack Track: Implement a full dashboard with Livewire and Tailwind CSS [Full Stack Track](#full-stack-track)
+- API Track: Develop a RESTful API with Laravel and Postman documentation [API Track](#api-track)
 
-    #### Day 1-2: Frontend Setup (10 hours)
-    - Setup Tailwind and Soft UI [Read Guide][soft-ui]
-        - Install Tailwind CSS
-        - Configure Soft UI Dashboard
-        - Setup basic layout components
-    - Configure Livewire [Read Guide][livewire]
-        - Create base components
-        - Setup event listeners
-        - Add real-time validation
+### Full Stack Track
 
-    #### Day 3-4: UI Components (10 hours)
-    - Create dashboard components
-        - Todo list component with filtering
-        - Todo creation modal
-        - Category management
-        - User profile page
-    - Implement Soft UI elements
-        - Navigation sidebar
-        - Stats cards
-        - Data tables
-        - Action buttons
+#### Day 1-2: Frontend Setup (10 hours)
+- Setup Tailwind and Soft UI [Read Guide][soft-ui]
+    - Install Tailwind CSS
+    - Configure Soft UI Dashboard
+    - Setup basic layout components
+- Configure Livewire [Read Guide][livewire]
+    - Create base components
+    - Setup event listeners
+    - Add real-time validation
 
-    #### Day 5-6: Advanced Features (10 hours)
-    - Add interactive features
-        - Real-time updates
-        - Search functionality
-        - Filtering system
-        - Activity logging
-</details>
+#### Day 3-4: UI Components (10 hours)
+- Create dashboard components
+    - Todo list component with filtering
+    - Todo creation modal
+    - Category management
+    - User profile page
+- Implement Soft UI elements
+    - Navigation sidebar
+    - Stats cards
+    - Data tables
+    - Action buttons
 
-<details>
-<summary>API Track</summary>
+#### Day 5-6: Advanced Features (10 hours)
+- Add interactive features
+    - Real-time updates
+    - Search functionality
+    - Filtering system
+    - Activity logging
 
+### API Track
 
 #### Day 1-2: API Structure (10 hours)
 - Setup API architecture [Read Guide][api-structure]
@@ -85,6 +85,7 @@ Total duration: 2 weeks (60 hours total)
     - Add proper validation
 
 #### Day 5-6: Testing & Documentation (10 hours)
+
 - Write API tests [Read Guide][testing]
     - Create feature tests
     - Add unit tests
@@ -94,9 +95,6 @@ Total duration: 2 weeks (60 hours total)
     - Add request examples
     - Include environment variables
     - Export and share collection
-
-
-</details>
 
 ### Required Features for Both Tracks
 1. User Management
