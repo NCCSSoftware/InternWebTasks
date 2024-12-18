@@ -25,7 +25,7 @@ Additional Resources:
 <ul>
 {% for post in site.posts %}
 {% if post.type == "resource" %}
-<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
