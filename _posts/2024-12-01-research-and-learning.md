@@ -85,3 +85,8 @@ type: "resource"
 [api-test-best]: https://www.perfecto.io/blog/api-testing-best-practices "API Testing Best Practices"
 
 [eloquent-sql-reference]: https://github.com/alexeymezenin/eloquent-sql-reference "Eloquent SQL References"
+
+# Git Commit Messages
+- Use proper format for git commit messages.
+    - ## Article on commit message format
+        - [Article][https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/]
