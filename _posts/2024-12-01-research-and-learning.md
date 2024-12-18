@@ -7,55 +7,53 @@ type: "resource"
 # Research and Learning
 - Topics and Documents will be added for research purpose, also self research with various  documents of same topics and not only see provided ones.
 
-- ## Note:
-    - ### Medium Blogs Case
-        - If Medium Blog has pay-wall, use [[🔓 Freedium][freedium-link]]
+## Note:
+- If Medium Blog has pay-wall, use [[🔓 Freedium][freedium-link]]
 
-- ## Naming Convention in Programming
-    - [[📝 Basic PHP Naming][basic-naming-convention]]
-    - [[🔤 Variable Naming Rules][rules-and-conventions-variable]]
+## Naming Convention in Programming
+- [[📝 Basic PHP Naming][basic-naming-convention]]
+- [[🔤 Variable Naming Rules][rules-and-conventions-variable]]
 
-- ## PHP Standard Recommendation - PSR
-    - Self learn PSR all if possible
-    - PSR-1, 2, 4, 12 IMPORTANT
-    - Use official, google articles, medium blogs, etc
-    - [[📚 PSR Guide][psr]]
+## PHP Standard Recommendation - PSR
+- Self learn PSR all if possible
+- PSR-1, 2, 4, 12 IMPORTANT
+- Use official, google articles, medium blogs, etc
+- [[📚 PSR Guide][psr]]
 
-- ## Laravel Resources
-    - [[📖 Laravel Docs][laravel-docs]]
-    - [[⭐ Laravel Best Practices][laravel-best]]
-    - [[💡 Laravel Examples][laravel-example]]
+## Laravel Resources
+- [[📖 Laravel Docs][laravel-docs]]
+- [[⭐ Laravel Best Practices][laravel-best]]
+- [[🛣️ Routing in Laravel][laravel-routing]]
+- [[💡 Laravel Examples][laravel-example]]
 
-- ## Livewire Resources
-    - [[⚡ Livewire Docs][livewire-docs]]
-    - [[🌟 Livewire Best Practices][livewire-best]]
-    - [[📱 Livewire Examples][livewire-examples]]
+## Livewire Resources
+- [[⚡ Livewire Docs][livewire-docs]]
+- [[🌟 Livewire Best Practices][livewire-best]]
+- [[📱 Livewire Examples][livewire-examples]]
 
-- ## UI Resources
-    - [[🎨 Tailwind Docs][tailwind-docs]]
-    - [[🎯 Soft UI Guide][soft-ui]]
-    - [[🧩 UI Components][tailwind-components]]
-    - [[📝 Cheat Sheet][tailwind-cheat]]
+## UI Resources
+- [[🎨 Tailwind Docs][tailwind-docs]]
+- [[🎯 Soft UI Guide][soft-ui]]
+- [[🧩 UI Components][tailwind-components]]
+- [[📝 Cheat Sheet][tailwind-cheat]]
 
-- ## API Development
-    - [[🔧 REST Best Practices][api-best]]
-    - [[📚 API Resources][api-resources]]
-    - [[🔒 Security Guide][api-security]]
-    - [[🔑 OAuth Guide][oauth]]
-    - [[🧪 Testing Guide][api-testing]]
+## API Development
+- [[🔧 REST Best Practices][api-best]]
+- [[📚 API Resources][api-resources]]
+- [[🔒 Security Guide][api-security]]
+- [[🔑 OAuth Guide][oauth]]
+- [[🧪 Testing Guide][api-testing]]
 
-- ## Testing
-    - [[✅ Laravel Testing][laravel-testing]]
-    - [[🧪 PHPUnit Guide][phpunit]]
-    - [[📋 Testing Best Practices][api-test-best]]
+## Testing
+- [[✅ Laravel Testing][laravel-testing]]
+- [[🧪 PHPUnit Guide][phpunit]]
+- [[📋 Testing Best Practices][api-test-best]]
 
-- ## Database
-    - [[💾 Eloquent Reference][eloquent-sql-reference]]
+## Database
+- [[💾 Eloquent Reference][eloquent-sql-reference]]
 
-# Git Commit Messages
-- Use proper format for git commit messages.
-    - ## Article on commit message format
-        - [[📝 Commit Guide][git-commit]]
+## Git
+- [[📝 Commit Guide][git-commit]]
 
 [freedium-link]: https://freedium.cfd "🔓 Freedium: Remove Medium Paywall"
 [basic-naming-convention]: https://www.codementor.io/@veenitchauhan/basics-of-naming-conventions-for-php-developers-eliexmew6 "📝 PHP Naming Conventions"
@@ -68,6 +66,7 @@ type: "resource"
 
 [livewire-docs]: https://livewire.laravel.com/docs/ "⚡ Official Livewire Documentation"
 [livewire-best]: https://github.com/michael-rubel/livewire-best-practices "🌟 Livewire Best Practices"
+[laravel-routing]: https://laravel.com/docs/10.x/routing "🛣️ Routing in laravel"
 [livewire-examples]: https://github.com/livewire/examples "📱 Livewire Examples"
 
 [tailwind-docs]: https://tailwindcss.com/docs "🎨 Tailwind CSS Documentation"
@@ -87,4 +86,3 @@ type: "resource"
 
 [eloquent-sql-reference]: https://github.com/alexeymezenin/eloquent-sql-reference "💾 Eloquent SQL Reference"
 [git-commit]: https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/ "📝 Git Commit Message Guide"
-[5] Routing in laravel : https://laravel.com/docs/10.x/routing
