@@ -5,7 +5,7 @@ title: "Tasks for Learning Laravel"
 
 # Intern Web Tasks
 
-This is a repository that contains the tasts to be done by the team "InternWeb"
+This is a repository that contains the tasks to be done by the team "InternWeb"
 <table>
   <tr>
     <th>Title</th>
