@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Research and Learning"
-permalink: /research-and-learning
 type: "resource"
 ---
 
