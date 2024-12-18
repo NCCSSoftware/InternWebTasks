@@ -23,8 +23,8 @@ title: NCCS InternWeb 2024
 description: >- # this means to ignore newlines until "baseurl:"
   This is a website for the NCCS InternWeb 2024. This website is a collection of the work done by the interns during the internship period.
 domain: nccssoftware.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nccssoftware.github.io/InternWebTask" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/InternWebTask" # the subpath of your site, e.g. /blog
+url: "https://nccssoftware.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
