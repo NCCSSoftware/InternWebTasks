@@ -23,9 +23,6 @@ repository: NCCSSoftware/InternWebTasks
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a website for the NCCS InternWeb 2024. This website is a collection of the work done by the interns during the internship period.
-domain: nccssoftware.github.io
-baseurl: "/InternWebTasks" # the subpath of your site, e.g. /blog
-url: "https://nccssoftware.github.io/InternWebTasks" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
