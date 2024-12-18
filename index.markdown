@@ -1,20 +1,24 @@
 ---
 layout: default
-title: "Hello World"
+title: "Tasks for Learning Laravel"
 ---
 
-# InternWebTasks
-Tasks For Intern Web
-
+# Intern Web Tasks
 
 This is a repository that contains the tasts to be done by the team "InternWeb"
-<ul>
-{% for post in site.posts %}
-{% if post.type == "task" %}
-<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Deadline</th>
+  </tr>
+  {% assign sorted_tasks = site.posts | where: "type", "task" | sort: "date" %}
+  {% for post in sorted_tasks %}
+  <tr>
+    <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+    <td>{{ post.deadline }}</td>
+  </tr>
+  {% endfor %}
+</table>
 <hr>
 
 Additional Resources:
