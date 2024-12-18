@@ -17,12 +17,13 @@
 .current-section {
   width: 85vw;
   margin: 0 auto;
-  left: 8vw;
+  left: 7vw;
   @media (max-width: 768px) {
     width: 100vw;
     left: 0;
   }
 }
+
 .download-bar{
   margin: 0 -15px 20px;
 }
