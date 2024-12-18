@@ -1,4 +1,11 @@
-# Reasearch and Learning
+---
+layout: default
+title: "Research and Learning"
+permalink: /research-and-learning
+type: "resource"
+---
+
+# Research and Learning
 - Topics and Documents will be added for research purpose, also self research with various  documents of same topics and not only see provided ones.
 
 - ## Note:
