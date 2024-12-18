@@ -150,3 +150,102 @@ Two tracks are available for this week: Full Stack and API Development. Choose o
 ### Deadline: Jan 5, 2025, 00:00 (Nepal Time +5:45)
 
     PS: After completing these tasks, actual project work will start. So, make sure you understand the concepts and implement them properly.
+
+## Task Structure Diagram
+
+```mermaid
+graph TB
+    subgraph "Week 3: Common Tasks"
+        A[Authentication Setup] --> |Day 1-2| A1[Sanctum Setup]
+        A --> A2[Login/Register System]
+        A1 --> |Configure| A11[Token Generation]
+        A1 --> |Setup| A12[Auth Endpoints]
+        A2 --> |Implement| A21[Email Verification]
+        A2 --> |Add| A22[Password Reset]
+
+        A --> B[User Management]
+        B --> |Day 3-4| B1[Role System]
+        B --> B2[Profile Management]
+        B1 --> B11[Role Migration]
+        B1 --> B12[Role Middleware]
+        B2 --> B21[Profile Updates]
+        B2 --> B22[Avatar Upload]
+
+        B --> C[Database Relations]
+        C --> |Day 5-6| C1[User-Todo Relations]
+        C --> C2[Category Relations]
+        C --> C3[Soft Deletes]
+    end
+
+    C --> D{Choose Track}
+
+    subgraph "Week 4: Full Stack Track"
+        D -->|Full Stack| E[Frontend Setup]
+        E --> |Day 1-2| E1[Tailwind Setup]
+        E --> E2[Livewire Config]
+        E1 --> E11[Soft UI Dashboard]
+        E2 --> E21[Base Components]
+        E2 --> E22[Event Listeners]
+
+        E --> F[UI Components]
+        F --> |Day 3-4| F1[Dashboard Components]
+        F --> F2[UI Elements]
+        F1 --> F11[Todo List]
+        F1 --> F12[Category Manager]
+        F2 --> F21[Navigation]
+        F2 --> F22[Data Tables]
+
+        F --> G[Advanced Features]
+        G --> |Day 5-6| G1[Real-time Updates]
+        G --> G2[Search & Filter]
+        G --> G3[Activity Logging]
+    end
+
+    subgraph "Week 4: API Track"
+        D -->|API| H[API Structure]
+        H --> |Day 1-2| H1[Route Setup]
+        H --> H2[API Security]
+        H1 --> H11[Versioning]
+        H2 --> H21[Rate Limiting]
+        H2 --> H22[Auth Middleware]
+
+        H --> I[API Development]
+        I --> |Day 3-4| I1[CRUD Endpoints]
+        I --> I2[Validation]
+        I1 --> I11[Todo API]
+        I1 --> I12[User API]
+        I1 --> I13[Category API]
+
+        I --> J[Testing & Documentation]
+        J --> |Day 5-6| J1[API Tests]
+        J --> J2[Documentation]
+        J1 --> J11[Feature Tests]
+        J1 --> J12[Unit Tests]
+        J2 --> J21[Postman Collection]
+        J2 --> J22[API Examples]
+    end
+
+    subgraph "Required Features"
+        K[User Management]
+        L[Todo Management]
+        L --> L1[CRUD Operations]
+        L --> L2[Categories]
+        L --> L3[Priority Levels]
+        M[Dashboard Features]
+        M --> M1[Statistics]
+        M --> M2[Activity Log]
+        M --> M3[Search/Filter]
+    end
+
+    G --> K
+    G --> L
+    G --> M
+    J --> K
+    J --> L
+    J --> M
+
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style D fill:#ff9,stroke:#333,stroke-width:2px
+    style K fill:#9f9,stroke:#333,stroke-width:2px
+    style L fill:#9f9,stroke:#333,stroke-width:2px
+    style M fill:#9f9,stroke:#333,stroke-width:2px
