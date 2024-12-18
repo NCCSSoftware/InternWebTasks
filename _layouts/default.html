@@ -26,7 +26,9 @@
         <div class="download-bar">
           <div class="inner">
             <h3 style="color: aquamarine;">{{ page.title }}</h3>
-            <h4><a href="{{ site.baseurl }}/">Go to Home</a></h4>
+            {% unless page.url == '/' %}
+              <h4><a href="{{ site.baseurl }}/">Home</a></h4>
+            {% endunless %}
           </div>
           <span class="blc"></span><span class="trc"></span>
         </div>
