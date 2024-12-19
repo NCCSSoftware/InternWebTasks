@@ -28,6 +28,7 @@ a{
 }
 
 .download-bar{
+  background: #000000;
   margin: 0 -15px 20px;
 }
 article{
@@ -63,6 +64,10 @@ footer {
   padding-bottom: 0px;
   margin: 0 auto;
   width: 80vw;
+}
+
+footer .owner{
+  background: #000000;
 }
 
 .markdown-body table{
