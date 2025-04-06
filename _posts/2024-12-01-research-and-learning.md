@@ -20,6 +20,10 @@ type: "resource"
 - Use official, google articles, medium blogs, etc
 - [[📚 PSR Guide][psr]]
 
+## PHP Learning Resources
+- [[📘 Learn PHP][php-basics]] - Essential basic concepts
+- [[🎯 Complete PHP Tutorial][php-deep-dive]] - Optional in-depth tutorial covering basics to advanced web development concepts
+
 ## Laravel Resources
 - [[📖 Laravel Docs][laravel-docs]]
 - [[⭐ Laravel Best Practices][laravel-best]]
@@ -59,6 +63,9 @@ type: "resource"
 [basic-naming-convention]: https://www.codementor.io/@veenitchauhan/basics-of-naming-conventions-for-php-developers-eliexmew6 "📝 PHP Naming Conventions"
 [rules-and-conventions-variable]: https://www.koladechris.com/blog/rules-and-conventions-for-naming-variables-in-php/ "🔤 PHP Variable Naming"
 [psr]: https://www.php-fig.org/psr/ "📚 PHP Standards Recommendations"
+
+[php-basics]: https://www.w3schools.com/php/ "📘 W3Schools PHP Tutorial - Basic Concepts"
+[php-deep-dive]: https://www.youtube.com/watch?v=U2lQWR6uIuo&list=PL3VM-unCzF8ipG50KDjnzhugceoSG3RTC "🎯 Comprehensive PHP Tutorial - From Basics to Web Server Development"
 
 [laravel-docs]: https://laravel.com/docs/10.x "📖 Official Laravel Documentation"
 [laravel-best]: https://github.com/alexeymezenin/laravel-best-practices?tab=readme-ov-file#contents "⭐ Laravel Best Practices"
