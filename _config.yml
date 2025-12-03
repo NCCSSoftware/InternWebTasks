@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: NCCS InternWeb 2024
+title: NCCS InternWeb
 repository: NCCSSoftware/InternWebTasks
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a website for the NCCS InternWeb 2024. This website is a collection of the work done by the interns during the internship period.
+  This is a website for the NCCS InternWeb. This website is a collection of the work done by the interns during the internship period.
 domain: nccssoftware.github.io/InternWebTasks
 baseurl: "/InternWebTasks" # the subpath of your site, e.g. /blog
 url: "https://nccssoftware.github.io/" # the base hostname & protocol for your site
